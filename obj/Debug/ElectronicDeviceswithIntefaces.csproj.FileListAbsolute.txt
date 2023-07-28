@@ -1,0 +1,8 @@
+E:\C#\Exercises\ElectronicDeviceswithIntefaces\ElectronicDeviceswithIntefaces\bin\Debug\ElectronicDeviceswithIntefaces.exe.config
+E:\C#\Exercises\ElectronicDeviceswithIntefaces\ElectronicDeviceswithIntefaces\bin\Debug\ElectronicDeviceswithIntefaces.exe
+E:\C#\Exercises\ElectronicDeviceswithIntefaces\ElectronicDeviceswithIntefaces\bin\Debug\ElectronicDeviceswithIntefaces.pdb
+E:\C#\Exercises\ElectronicDeviceswithIntefaces\ElectronicDeviceswithIntefaces\obj\Debug\ElectronicDeviceswithIntefaces.csproj.AssemblyReference.cache
+E:\C#\Exercises\ElectronicDeviceswithIntefaces\ElectronicDeviceswithIntefaces\obj\Debug\ElectronicDeviceswithIntefaces.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\ElectronicDeviceswithIntefaces\ElectronicDeviceswithIntefaces\obj\Debug\ElectronicDeviceswithIntefaces.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\ElectronicDeviceswithIntefaces\ElectronicDeviceswithIntefaces\obj\Debug\ElectronicDeviceswithIntefaces.exe
+E:\C#\Exercises\ElectronicDeviceswithIntefaces\ElectronicDeviceswithIntefaces\obj\Debug\ElectronicDeviceswithIntefaces.pdb
